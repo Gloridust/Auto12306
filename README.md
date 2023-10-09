@@ -28,6 +28,6 @@ pip install selenium
 
 **5. 配置ChromeDriver路径：** 将ChromeDriver的路径添加到系统的环境变量中，或者在代码中指定ChromeDriver的路径。在上面的Python示例中，你需要将`'path_to_chromedriver'`替换为你ChromeDriver的实际路径。
 
-完成以上步骤后，你就可以运行使用Selenium编写的Python程序，自动化执行Web操作，例如模拟用户登录和抢票。
+完成以上步骤后，你就可以运行使用Selenium自动模拟用户登录和抢票。
 
 请注意，Selenium是一个强大的工具，但也要小心使用，确保遵守网站的使用政策和法律法规。
